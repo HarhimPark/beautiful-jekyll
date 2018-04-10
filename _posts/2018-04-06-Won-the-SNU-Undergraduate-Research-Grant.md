@@ -8,6 +8,6 @@ gh-badge:
 tags:
 ---
 Also, it's my first post!
-The subject is 'Predicting trial-wise risky choice from multi-modal data'.
-I'll do my best with the research.
+The title of the grant proposal is 'Predicting trial-wise risky choice from multi-modal data'.
+I'll keep you posted.
 
