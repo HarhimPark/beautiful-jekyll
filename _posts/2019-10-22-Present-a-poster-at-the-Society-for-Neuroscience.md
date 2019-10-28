@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Present a poster at the annual meeting of the Society for Neuroscience
+title: Present a Poster at the Annual Meeting of the Society for Neuroscience
 image: /img/SfN2019.jpg
 subtitle:
 gh-repo:
